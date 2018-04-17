@@ -1,0 +1,7 @@
+mkdir GitHubRepoAssignment
+cd GitHubRepoAssignment
+Git init
+Nano readme.md
+Git status
+Git add .
+Git commit -m "updating all files"
